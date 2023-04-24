@@ -1,5 +1,5 @@
 # Multiple-checkerboards-calibration
-Repository for obtaining the lens distortion parameters of a camera by using an image with several checkerboards.
+Repository for obtaining the lens distortion parameters of a camera by using an image with several checkerboards.\n
 It is used by calling the function obtain_calib_parameters(img_path,calib_path,cb_matrix,margin=0).
   img_pad: path of the folder containing the image(s).
   calib_pad: path of the folder containing the calibration parameters.
